@@ -1,0 +1,8 @@
+# 应用服务 WEB 访问端口
+aicode:
+  errorhandler:
+    enabled: true
+    gptGateway: https://api.v3.cm
+    gptKey: 1234567890
+    language: chinese
+
