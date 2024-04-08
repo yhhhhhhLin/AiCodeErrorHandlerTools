@@ -1,8 +1,7 @@
-# 应用服务 WEB 访问端口
 aicode:
   errorhandler:
-    enabled: true
-    gptGateway: https://api.v3.cm
-    gptKey: 1234567890
+    is-enable: true
+    gpt-gateway: https://api.v3.cm
+    gpt-key:
     language: chinese
-
+    model: gpt-3.5-turbo
